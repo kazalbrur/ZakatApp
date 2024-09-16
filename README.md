@@ -1,4 +1,4 @@
-# zakat_calculator_kazal
+# Zakat Calculator App
 
 A new Flutter project.
 
